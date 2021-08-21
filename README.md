@@ -52,3 +52,5 @@
 -
 * .palindrome - palindrome
 * .ping - pong !
+-
+* peut-être d'autres commandes secrètes...
