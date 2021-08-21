@@ -24,7 +24,7 @@
 
 ## 2. Commandes facilitant le jeu
 * .bévue - enlève 10 points
-* .règle [règle] - affiche une règle (toutes les règles sont disponibles [ici](todo)
+* .règle [règle] - affiche une règle (toutes les règles sont disponibles [ici](todo))
 * .défi - affiche la liste des annonces possibles lors d'un sirotage
 * .33% [ombre de points] - calcule les 33% d'un nombre
 * .25% [ombre de points] - calcule les 25% d'un nombre
@@ -38,7 +38,7 @@
 * .défaite [nombre] - rajoute ou enlève un nombre de défaites à l'utilisateur
 
 * .titre [titre] - permet de rajouter un titre personnalisé visible lors de la visualisation du profil ou des records
-* .couleur [code couleur hexadécimal](https://www.colorcodehex.com/html-color-picker.html) - permet de rajouter une couleur personnalisée visible à gauche des "embeds" (.profil, .partie, .score...)
+* .couleur [[code couleur hexadécimal]](https://www.colorcodehex.com/html-color-picker.html) - permet de rajouter une couleur personnalisée visible à gauche des "embeds" (.profil, .partie, .score...)
 
 * .classement [victoires/parties/dés] - affiche les 10 premières places des classements du nombre de victoires, du nombre de parties jouées ou du nombre de dés lancés
 * .records - affiche une liste de records tels que le plus haut score atteint lors d'une partie, le plus grand nombre de victoires enregistrées ou la plus longue partie
