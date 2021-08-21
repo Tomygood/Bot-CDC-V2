@@ -21,7 +21,7 @@ et j'ai rajouté des statistiques
 - Ajout des fonctionnalités civet et grelotine dans la commande !score
 
 ## Version 1.0.5 (08/11/2019)
-- Changement du préfixe "!" en "." afin d'éviter la confusion avec le bot @Le Tavernier  (note : il est toujours possible d'utiliser "!" mais l'utilisation du nouveau préfixe est préferable)
+- Changement du préfixe "!" en "." afin d'éviter la confusion avec le bot DiceParser  (note : il est toujours possible d'utiliser "!" mais l'utilisation du nouveau préfixe est préferable)
 - Ajout du comptage de tours afin de faciliter l'usage du Chante-Sloubi
 - Ajout conséquent de la commande ".tour" rajoutant un tour et du nombre de tours dans ".score"
 - Ajout de la commande ".stats" permettant d'afficher des statistiques avancées (dés...)
