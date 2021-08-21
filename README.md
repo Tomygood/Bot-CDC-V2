@@ -1,5 +1,5 @@
 # Liste des commandes de la version 2 du bot Cul De Chouette !
-##1. Commandes de jeu
+## 1. Commandes de jeu
 * .1 - lance un dé
 * .2 - lance deux dés
 * .3 - lance trois dés
@@ -22,7 +22,7 @@
 
 * .partie - affiche le classement des score de la partie en cours ainsi que le nombre de tours joués (les utilisateurs affichés sont ceux appartenant au serveur ayant un nombre de points différent de 0.)
 
-##2. Commandes facilitant le jeu
+## 2. Commandes facilitant le jeu
 * .bévue - enlève 10 points
 * .règle [règle] - affiche une règle (toutes les règles sont disponibles [ici](todo)
 * .défi - affiche la liste des annonces possibles lors d'un sirotage
@@ -32,7 +32,7 @@
 * .6% [ombre de points] - calcule les 6% d'un nombre
 * .3% [ombre de points] - calcule les 3% d'un nombre
 
-##3. Autres commandes
+## 3. Autres commandes
 * .profil [utilisateur] - affiche le profil de l'utilisateur ou de l'utilisateur mentionné (nombre de victoires, nombre de défaites, nombre de dés lances...)
 * .victoire [nombre] - rajoute ou enlève un nombre de victoires à l'utilisateur
 * .défaite [nombre] - rajoute ou enlève un nombre de défaites à l'utilisateur
