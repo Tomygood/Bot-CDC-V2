@@ -1,6 +1,6 @@
 # Mode d'emploi du Bot Cul De Chouette (Version 2)
 ## Introduction
-Le bot Cul De Chouette (Version 2) est un bot Discord codé par Tomygood#4815 ayant pour but de faciliter le jeu du Cul De Chouette en ligne. La liste des commandes est disponible [ici](COMMANDES.md) et les règles du jeu [là](REGLES.md). Ici vous trouverez un mode d'emploi d'utilisation de la deuxième version du bot.
+Le bot Cul De Chouette (Version 2) est un bot Discord codé par Tomygood#4815 en Javascript ayant pour but de faciliter le jeu du Cul De Chouette en ligne. La liste des commandes est disponible [ici](COMMANDES.md) et les règles du jeu [là](REGLES.md). Ici vous trouverez un mode d'emploi d'utilisation de la deuxième version du bot.
 
 ## Jouer
 Pour jouer, on peut utiliser les commandes .1, .2 et .3 qui lanceront respectivement 1, 2 ou 3 dés. 
@@ -21,4 +21,7 @@ A la fin de la partie, un joueur peut ajouter une victoire ou une défaite à so
 
 Il existe plusieurs autres commandes sympas que vous pouvez regarder [ici](COMMANDES.md)
 
-##
+
+
+##Merci de vous intéresser et d'utiliser le bot Cul De Chouette ! Vous pouvez contacter Tomygood#4815 pour toute aide, suggestion, avis ou problème !
+
