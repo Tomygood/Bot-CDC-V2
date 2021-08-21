@@ -23,5 +23,5 @@ Il existe plusieurs autres commandes sympas que vous pouvez regarder [ici](COMMA
 
 
 
-## Merci de vous intéresser et d'utiliser le bot Cul De Chouette ! Vous pouvez contacter Tomygood#4815 pour toute aide, suggestion, avis ou problème !
+### Merci de vous intéresser et d'utiliser le bot Cul De Chouette ! Vous pouvez contacter Tomygood#4815 pour toute aide, suggestion, avis ou problème !
 
