@@ -4,27 +4,27 @@ Le Cul de Chouette est un jeu créé dans Kaamelott par Alexandre Astier.
 Matériel : 3 dés
 But : arriver le premier à 343 points (ou variante à -343 pts)
 
-### Chouette
+## Chouette
 2 dés identiques, vaut toujours son carré. (Chouette de 1 :  1 point, Chouette de 2 : 4 points, Chouette de 3 : 9 pts, de 4 : 16 pts, de 5 : 25 pts et de 6 : 36  pts) 
 Exemple : 2,2,3
 
-### Velute 
+## Velute 
 2 dés qui additionnés font la valeur du 3ème dé, vaut le double de son carré. (Velute de 2 : 8 points, Velute de 3 : 18 points, Velute de 4 : 32 pts, de 5 : 50 pts et de 6 : 72 pts) 
 Exemple : 5,3,2
 
-### Chouette-Velute
+## Chouette-Velute
 Comme son nom l'indique, c'est une Chouette et une Velute à la fois, tout le monde doit taper sur ses genoux et déclarer : « Pas mou le caillou ! ». Le premier l’annonçant gagne les points de la Velute, si deux personnes le disent en même temps, alors les deux perdent les points de la Velute. 
 Exemple : 6,3,3
 
-### Cul de Chouette 
+## Cul de Chouette 
 3 dés identiques, vaut entre 50 et 100 points (Cul de Chouette de 1 : 50 , Cul de Chouette de 2 : 60 pts, de 3 : 70 pts, de 4 : 80 pts, de 5 : 90 pts et de 6 : 100 pts) 
 Exemple : 4,4,4
 
-### Suite 
+## Suite 
 Tout le monde doit taper du poing sur la table et dire : "Grelote ça picote !". Le dernier qui le dit perd 10 points, si deux personnes le disent en dernier en même temps, ils seront départagés par : « Sans fin est la moisissure des bières bretonnes ». 
 Exemple: 3,4,5
 
-### Sirotage
+## Sirotage
 Le Sirotage consiste à relancer un dé quand on fait une Chouette dans le but de faire un Cul de Chouette (tous les autres joueurs parient sur la valeur du dé, (pour parier 1, il faut dire linotte, pour 2 : alouette, 3 : fauvette, 4 : mouette, 5 : bergeronnette et 6 : chouette) si le pari est réussi, le joueur gagne 25pts s'il annonce "Sirop gagnant" et si le pari est raté, il perd 5 pts. Si un joueur veut miser sur la réussite du Sirotage, il doit crier “ Beau-Sirop ! ” et non pas annoncer l'oiseau correspondant à la Chouette sirotée, sinon il y a Bévue. Si un joueur décide de ne pas miser, il doit crier “ Couche-Sirop ! ” ou “ File-Sirop ! ” avant que le dé ne soit tombé. Si un joueur ne fait aucune annonce avant le lancer du cul, il y a Bévue.) Si Sirotage raté : le joueur perd les points de la Chouette. Si Sirotage réussi : le joueur gagne les points du Cul de Chouette. Si Sirotage de Chouette de 6 raté : le joueur perd donc 36 points mais gagne un Civet. Le Sirotage ne peut être tenté que sur une Chouette (il s'agit d'une Bévue si un joueur tente un Sirotage sur une Chouette-Velute, un Bleu-Rouge ou une Artichette).
 
 ### Civet 
