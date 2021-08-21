@@ -149,7 +149,7 @@ Il est possible de jouer au Cul de chouette par équipes de deux ou plus si le n
 S'il y a une déclaration simultanée, de 2 joueurs de la même équipe, qui normalement enlève des points (ex: "Pas mou le cailloux","J'apprécie les fruits au sirop"...)alors l'équipe ne perd pas les points au contraire leur déclaration compte double. Une chouette velutte de 6 déclarée en même temps ramène donc 72*2 pts, il faut bien sûr l'avoir déclaré avant les joueurs des équipes adverses.
 
 # Résumé des annonces
-https://cdn.discordapp.com/attachments/671434466782347284/675690592348667924/Resume_des_anonces_du_Cul_de_Chouette.odt
+https://github.com/Tomygood/Bot-CDC-V2/files/7026200/Resume_des_anonces_du_Cul_de_Chouette.odt
 
 # Règles à l'Aquitaine
 
