@@ -54,3 +54,5 @@
 * .ping - pong !
 -
 * peut-être d'autres commandes secrètes...
+
+### Merci de vous intéresser et d'utiliser le bot Cul De Chouette ! Vous pouvez contacter Tomygood#4815 pour toute aide, suggestion, avis ou problème !
