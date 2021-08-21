@@ -1,0 +1,33 @@
+- Ajout du nombre de dés lancés dans la base de donnée (à partir du lancement de la V2).
+- Mise à jour de .bot: ajout de la liste des commandes et de l'historique des versions
+- Ajout de la possibilité de personnaliser la couleur des "embeds" (.profil, .score) avec .couleur (note: la couleur de défaut est #202225)
+- Ajout de .partie qui affiche tous les membres du serveurs ayant un score différent de 0.
+- Changement de .profil: 
+	- Les informations relatives à la partie en cours (.score, .civet...) ont été enlevées
+	- Ajout du champ "nombre de dés lancés"
+	- Ajout du champ "couleur personnalisée"
+	- Le placement général a été ajouté pour les victoires et le nombre de parties total.
+	- Ajout du "titre" personnalisable en description (.titre)
+	- Arrondissement des taux de victoires et de défaites au dixième
+- .pts et .bévue affichent la place actuelle (en fonction de tous les joueurs du serveur ayant un nombre de points différent de 0).
+- Des points ne peuvent pas être ajoutés depuis un serveur si ils ont d'abord été ajoutés depuis un autre.
+- .pts -1 et.pts 1 (ainsi que .victoire 1, victoire -1, défaite 1 et défaite -1) renvoient maintenant des messages grammaticalement corrects.
+- Enlever des points renvoie "X points retranchés" au lieu de "-X points retranchés"
+- Rajouter des points pour un total de plus de 342 ne renvoie que le message de félicitations (avec le nombre de points). 
+- .titre permet d'ajouter un titre personnalisé dans .profil
+- Changement de la base de donnée (quick.db -> MongoDB) pour des commandes plus variées et moins de problèmes.
+- Réorganisation du code et réécriture de la majorité des commandes.
+- Ajout de .classement (victoires, parties, dés) qui affiche les dix premières places du classement spécifié.
+- Les règles sont à présent disponible avec .règles [règle] au lieu de .[règle]. Elle sont également disponible ici -> [todo]
+- Les commandes .grelottine_add, .grelottine_remove, .civet_add, .civet_remove... ont été changées en .grelottine, .civet, .flan... (commandes concernées: .grelottine, .civet, .civet-filoché, .passe-grelot, .rigodon, .jarret, .flan)
+- Le Civet-Filoché s'obtient et s'enlève avec .civet-filoché (précédemment .civetf_add)
+- .défi est à présent envoyé en un seul message.
+- .33%, .25%, .12%... renvoient maintenant un message d'erreur lorsque la valeur rentrée n'est pas un nombre.
+- Les valeurs renvoyées par .33%, .25%, .12%... sont à présent arrondies au dixième.
+- Ajout de .records qui recense plusieurs records tels que le plus haut nombre de points atteints, le plus haut nombre de victoires ou la plus longue partie. (note: si vous avez des idées de records intéressants à rajouter, contactez-moi pas Tomygood#4815 sur Discord)
+- Ajout de .recordinfo qui permet d'avoir plus d'informations sur un record (spécifié après la commande: victoires, hautscore, dés, partiesjouées, temps, tours, défaites ou basscore). Sans argument, la commande renvoie des informations générales et comment réclamer un record.
+- Un emoji flan a été rajouté à la fin du message d'obtention et de perte de flan. C'est tout.
+- Les titres des champs des embeds sont maintenant pour la plupart soulignés.
+- les commandes rip et f ont été enlevées parce qu'elles sont juste chiantes
+- .palindrome fait 8 lignes de code au lieu de 100. J'étais juste débile
+- Ajout d'une page GitHub publique et rédaction des fichiers COMMANDES.md qui contient la liste complète des commandes de la V2, REGLES.md qui contient les règles et annexes écrites par TitouanTT#0751, README.md qui contient un mode d'emploi du bot et enfin HISTORIQUEVERSIONS.md qui contient un historique des versions du bot.
