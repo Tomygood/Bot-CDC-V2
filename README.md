@@ -3,7 +3,7 @@
 * .1 - lance un dé
 * .2 - lance deux dés
 * .3 - lance trois dés
-\
+-
 * .pts [nombre de points] - permet de se rajouter ou de s'enlever un ou des points
 * .points - permet de visualiser son nombre actuel de points
 * .score [utilisateur] - permet de visualiser son nombre actuel de points (ou celui de l'utilisateur mentionné) ainsi que si l'utilisateur possède un "objet" (Grelottine, Civet...) puis le nombre de tours de la partie en cours.
