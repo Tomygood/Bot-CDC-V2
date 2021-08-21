@@ -47,3 +47,6 @@
 * .bot - Affiche des informations sur le bot
 * .help - redirige vers un mode d'emploi du bot ainsi que ce fichier et les règles du jeu
 * .commandes - redirige vers ce fichier
+
+* .palindrome - palindrome
+* .ping - pong !
