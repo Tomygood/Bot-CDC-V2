@@ -27,11 +27,11 @@
 * .bévue - enlève 10 points
 * .règle [règle] - affiche une règle (toutes les règles sont disponibles [ici](todo))
 * .défi - affiche la liste des annonces possibles lors d'un sirotage
-* .33% [ombre de points] - calcule les 33% d'un nombre
-* .25% [ombre de points] - calcule les 25% d'un nombre
-* .12% [ombre de points] - calcule les 12% d'un nombre
-* .6% [ombre de points] - calcule les 6% d'un nombre
-* .3% [ombre de points] - calcule les 3% d'un nombre
+* .33% [nombre de points] - calcule les 33% d'un nombre
+* .25% [nombre de points] - calcule les 25% d'un nombre
+* .12% [nombre de points] - calcule les 12% d'un nombre
+* .6% [nombre de points] - calcule les 6% d'un nombre
+* .3% [nombre de points] - calcule les 3% d'un nombre
 
 ## 3. Autres commandes
 * .profil [utilisateur] - affiche le profil de l'utilisateur ou de l'utilisateur mentionné (nombre de victoires, nombre de défaites, nombre de dés lances...)
@@ -40,6 +40,7 @@
 -
 * .titre [titre] - permet de rajouter un titre personnalisé visible lors de la visualisation du profil ou des records
 * .couleur [[code couleur hexadécimal]](https://www.colorcodehex.com/html-color-picker.html) - permet de rajouter une couleur personnalisée visible à gauche des "embeds" (.profil, .partie, .score...)
+* .hard_reset - réinitialise l'entierté de la base de données
 -
 * .classement [victoires/parties/dés] - affiche les 10 premières places des classements du nombre de victoires, du nombre de parties jouées ou du nombre de dés lancés
 * .records - affiche une liste de records tels que le plus haut score atteint lors d'une partie, le plus grand nombre de victoires enregistrées ou la plus longue partie
