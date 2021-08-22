@@ -1,6 +1,6 @@
 # Liste des commandes de la version 2 du bot Cul De Chouette !
 ## 1. Commandes de jeu
-#### .1
+#### **.1**
 lance un dé
 #### .2
 lance deux dés
