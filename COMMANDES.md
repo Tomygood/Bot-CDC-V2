@@ -6,7 +6,7 @@ lance un dé
 lance deux dés
 #### .3
 lance trois dés
-###
+#
 #### .pts [nombre de points]
 permet de se rajouter ou de s'enlever un ou des points
 #### .points
