@@ -1,11 +1,12 @@
 # Liste des commandes de la version 2 du bot Cul De Chouette !
 ## 1. Commandes de jeu
-#### **.1**
+#### .1
 lance un dé
 #### .2
 lance deux dés
 #### .3
 lance trois dés
+
 
 #### .pts [nombre de points]
 permet de se rajouter ou de s'enlever un ou des points
@@ -14,6 +15,7 @@ permet de visualiser son nombre actuel de points
 #### .score [utilisateur]
 permet de visualiser son nombre actuel de points (ou celui de l'utilisateur mentionné) ainsi que si l'utilisateur possède un "objet" (Grelottine, Civet...) puis le nombre de tours de la partie en cours.
 #### .reset - remet le score ainsi que les "objets" à zéro
+
 
 #### .grelottine
 rajoute ou enlève une Grelottine de la base de données
@@ -30,10 +32,12 @@ rajoute ou enlève un Passe-Grelot de la base de données
 #### .rigodon
 rajoute ou enlève un Rigodon de la base de données
 
+
 #### .tour
 rajoute un tour à la partie en cours
 #### .tour_remove
 enlève un tour à la partie en cours
+
 
 #### .partie
 affiche le classement des score de la partie en cours ainsi que le nombre de tours joués (les utilisateurs affichés sont ceux appartenant au serveur ayant un nombre de points différent de 0.)
