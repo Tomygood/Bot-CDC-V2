@@ -1,3 +1,5 @@
+https://youtu.be/KTwNb1HAO0c
+
 - Ajout du nombre de dés lancés dans la base de donnée (à partir du lancement de la V2).
 - Mise à jour de .bot: ajout de la liste des commandes et de l'historique des versions
 - Ajout de la possibilité de personnaliser la couleur des "embeds" (.profil, .score) avec .couleur (note: la couleur de défaut est #202225)
