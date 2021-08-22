@@ -6,24 +6,37 @@ lance un dé
 lance deux dés
 #### .3
 lance trois dés
--
-* .pts [nombre de points] - permet de se rajouter ou de s'enlever un ou des points
-* .points - permet de visualiser son nombre actuel de points
-* .score [utilisateur] - permet de visualiser son nombre actuel de points (ou celui de l'utilisateur mentionné) ainsi que si l'utilisateur possède un "objet" (Grelottine, Civet...) puis le nombre de tours de la partie en cours.
-* .reset - remet le score ainsi que les "objets" à zéro
--
-* .grelottine - rajoute ou enlève une Grelottine de la base de données
-* .civet - rajoute ou enlève un Civet de la base de données
-* .civetf - rajoute ou enlève un Civet-Filoché de la base de données
-* .flan - rajoute ou enlève un Flan de la base de données
-* .jarret - rajoute ou enlève un Jarret de la base de données
-* .passe-grelot - rajoute ou enlève un Passe-Grelot de la base de données
-* .rigodon - rajoute ou enlève un Rigodon de la base de données
--
-* .tour - rajoute un tour à la partie en cours
-* .tour_remove - enlève un tour à la partie en cours
--
-* .partie - affiche le classement des score de la partie en cours ainsi que le nombre de tours joués (les utilisateurs affichés sont ceux appartenant au serveur ayant un nombre de points différent de 0.)
+
+#### .pts [nombre de points]
+permet de se rajouter ou de s'enlever un ou des points
+#### .points
+permet de visualiser son nombre actuel de points
+#### .score [utilisateur]
+permet de visualiser son nombre actuel de points (ou celui de l'utilisateur mentionné) ainsi que si l'utilisateur possède un "objet" (Grelottine, Civet...) puis le nombre de tours de la partie en cours.
+#### .reset - remet le score ainsi que les "objets" à zéro
+
+#### .grelottine
+rajoute ou enlève une Grelottine de la base de données
+#### .civet
+rajoute ou enlève un Civet de la base de données
+#### .civet-filoché
+rajoute ou enlève un Civet-Filoché de la base de données
+#### .flan
+rajoute ou enlève un Flan de la base de données
+#### .jarret
+rajoute ou enlève un Jarret de la base de données
+#### .passe-grelot
+rajoute ou enlève un Passe-Grelot de la base de données
+#### .rigodon
+rajoute ou enlève un Rigodon de la base de données
+
+#### .tour
+rajoute un tour à la partie en cours
+#### .tour_remove
+enlève un tour à la partie en cours
+
+#### .partie
+affiche le classement des score de la partie en cours ainsi que le nombre de tours joués (les utilisateurs affichés sont ceux appartenant au serveur ayant un nombre de points différent de 0.)
 
 
 ## 2. Commandes facilitant le jeu
