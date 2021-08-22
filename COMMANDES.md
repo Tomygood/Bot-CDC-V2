@@ -13,7 +13,8 @@ permet de se rajouter ou de s'enlever un ou des points
 permet de visualiser son nombre actuel de points
 #### .score [utilisateur]
 permet de visualiser son nombre actuel de points (ou celui de l'utilisateur mentionné) ainsi que si l'utilisateur possède un "objet" (Grelottine, Civet...) puis le nombre de tours de la partie en cours.
-#### .reset - remet le score ainsi que les "objets" à zéro
+#### .reset
+remet le score ainsi que les "objets" à zéro
 #
 #### .grelottine
 rajoute ou enlève une Grelottine de la base de données
@@ -77,7 +78,7 @@ affiche les 10 premières places des classements du nombre de victoires, du nomb
 affiche une liste de records tels que le plus haut score atteint lors d'une partie, le plus grand nombre de victoires enregistrées ou la plus longue partie
 #### .recordinfo [record]
 permet d'obtenir plus d'informations sur un record en particulier (victoires, hautscore, dés, partiesjouées, temps, tours, défaites ou basscore)
--
+#
 #### .bot
 Affiche des informations sur le bot
 #### .help
@@ -86,6 +87,7 @@ redirige vers un [mode d'emploi du bot](README.md) ainsi que ce fichier et les [
 redirige vers ce fichier
 #
 #### .palindrome
+palindrome.
 #### .ping
 pong !
 #
