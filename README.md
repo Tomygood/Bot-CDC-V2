@@ -30,3 +30,4 @@ Si vous souhaitez ne pas apparaître dans .records ou .classement, vous pouvez e
 
 ### Merci de vous intéresser et d'utiliser le bot Cul De Chouette ! Vous pouvez contacter Tomygood#4815 pour toute aide, suggestion, avis ou problème !
 
+Timelapse du codage de la V2: https://youtu.be/KTwNb1HAO0c
