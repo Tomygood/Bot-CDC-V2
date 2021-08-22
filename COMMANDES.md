@@ -37,7 +37,7 @@ Rajoute un tour à la partie en cours
 Enlève un tour à la partie en cours
 #
 #### .partie
-Affiche le classement des score de la partie en cours ainsi que le nombre de tours joués (les utilisateurs affichés sont ceux appartenant au serveur ayant un nombre de points différent de 0.)
+Affiche le classement des score de la partie en cours ainsi que le nombre de tours joués (les utilisateurs affichés sont ceux appartenant au serveur ayant un nombre de points différent de 0)
 ## 2. Commandes facilitant le jeu
 #### .bévue
 Enlève 10 points
